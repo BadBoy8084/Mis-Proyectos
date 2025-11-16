@@ -1,4 +1,6 @@
+--------------------------------------------------------------------------
 # Mis-Proyectos como Developer/Configurador
+--------------------------------------------------------------------------
 Hola soy Wladimir un chico de 17 años , soy un chico altualmente como Developer / Configurador de servers de minecraft, he trabajado en distintos servers grandes como pequeños , Mi discord : Badboy#8084
 Mi primer premade creado por mi TEMATICA (CAVEPVP)
 link: (https://www.mediafire.com/file/8oyzs7ypzlqjoys/CavePvP_Kitmap_Server_%25C2%25BB_%252819.08.2021%2529_-_1.0.rar/file)
@@ -6,8 +8,9 @@ link: (https://www.mediafire.com/file/8oyzs7ypzlqjoys/CavePvP_Kitmap_Server_%25C
 Pueden ver mis proyectos en el siguiente link:
 https://www.mediafire.com/folder/adrnty04ao1i2/Premades
 
--------------------------------------
+--------------------------------------------------------------------------
 #Mi Cv como Staff Team and SS Team
+--------------------------------------------------------------------------
 1.Pido anydesk al usuario correctamente
 2.procedo a revisar si tiene un archivo o programa que grabe la SS
 3.empiezo a revisarle las descargas (navegador) (papelera)
@@ -22,16 +25,15 @@ luego options, luego (Strings) y cambiamos el minumum, activamos (Extended Unico
 8.Everthing: sirve para ver todos los archivos que se encuentan en la pc mas fácil y rápido, .exe.log .dmp .wer .appcrash .ink archivos que dan los logs de los (cheats)
 9.LastActivityview: sirve para ver procesos ejecutados últimamente (logs de últimos programas)
 10. Mediante esos archivos se puede buscar, pero estoy aprendiendo mas para hacer SS (ScreenShare). Gracias
--------------------------------------
-
+--------------------------------------------------------------------------
 #Mi Cv Como Staff Team
-
+--------------------------------------------------------------------------
 Mi Cv Para Staff Aplication
 Mi Información Personal
 Minecraft IGN: Noxvian
 Discord: nelsoncazar#7978
-Edad: 18 años
-Pais: Colombia
+Edad: 17 años
+Pais: Ecuador
 Lenguas: Español (Nativo), 
 Minecraft Experience
 Jugando Minecraft desde 2018 HCF desde 2019 (Servidores como Viper ,Velt, Faithful, CavePvP, Minemen, etc.)
