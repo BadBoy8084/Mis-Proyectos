@@ -5,8 +5,8 @@ Hola soy Wladimir un chico de 17 años , soy un chico altualmente como Developer
 Mi primer premade creado por mi TEMATICA (CAVEPVP)
 link: (https://www.mediafire.com/file/8oyzs7ypzlqjoys/CavePvP_Kitmap_Server_%25C2%25BB_%252819.08.2021%2529_-_1.0.rar/file)
 
-Pueden ver mis proyectos en el siguiente link:
-https://www.mediafire.com/folder/adrnty04ao1i2/Premades
+Pueden ver mis proyectos aqui:
+<img width="1279" height="672" alt="image" src="https://github.com/user-attachments/assets/9ab9802c-2c0f-4b58-8bfb-5cde7ff528c3" />
 
 --------------------------------------------------------------------------
 #Mi Cv como Staff Team and SS Team
