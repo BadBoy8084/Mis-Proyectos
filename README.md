@@ -30,7 +30,7 @@ luego options, luego (Strings) y cambiamos el minumum, activamos (Extended Unico
 Mi Cv Para Staff Aplication
 Mi Información Personal
 Minecraft IGN: Noxvian
-Discord: nelsoncazar#7978
+Discord: zx_badboy
 Edad: 17 años
 Pais: Ecuador
 Lenguas: Español (Nativo), 
