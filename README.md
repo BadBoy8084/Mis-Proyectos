@@ -1,36 +1,19 @@
 --------------------------------------------------------------------------
 # Mis cv como Developer y Staff
 --------------------------------------------------------------------------
-Hola soy Wladimir un chico de 17 años , soy un chico altualmente como Developer / Configurador de servers de minecraft, he trabajado en distintos servers grandes como pequeños , Mi discord : Badboy#8084
+Hola soy Wladimir un chico de 17 años , soy un chico altualmente como Developer / Configurador de servers de minecraft, he trabajado en distintos servers grandes como pequeños , Mi discord : ElCucas#6733 | Noxvian
 Mi primer premade creado por mi TEMATICA (CAVEPVP)
 link: (https://www.mediafire.com/file/8oyzs7ypzlqjoys/CavePvP_Kitmap_Server_%25C2%25BB_%252819.08.2021%2529_-_1.0.rar/file)
 
 Pueden ver mis proyectos aqui:
 <img width="1279" height="585" alt="image" src="https://github.com/user-attachments/assets/23574f9a-3a68-4607-a7ec-9aea63113c42" />
 --------------------------------------------------------------------------
-#Mi Cv como Staff Team and SS Team
---------------------------------------------------------------------------
-1.Pido anydesk al usuario correctamente
-2.procedo a revisar si tiene un archivo o programa que grabe la SS
-3.empiezo a revisarle las descargas (navegador) (papelera)
-4.Si no encuentro nada empezamos a ver en el windos + r (prefetch, appdata) donde se ve los logs de las aplicaciones
-5.utilizas el mismo programa y poner (control folders) (luego marcamos en donde dice mostrar archivos y descactivamos la opción que dice (mostrar archivos protegidas del sistema y lo aplicamos) luego de eso ingresamos nuevamente a la carpeta previa abierta (papelera) y saldrá los logs de lo ultimo que ha abierto el usuario o en su caso borrado
-6. Para estar seguros de la ss podemos utilizar los siguientes programas
-- Everthing
-- LastactivityView 
-- System Informer
-7.System Informer: para entrar a los .exe de lo borrado (cheats) tenemos que utilizar System Informer, luego buscamos el archivo (explorer.exe)
-luego options, luego (Strings) y cambiamos el minumum, activamos (Extended Unicode) y (Mapped)y el programa empezara a buscar los archivos, ponemos en Filter (pcaclient) y saldrá los cheats previamente usados en un log de block de no
-8.Everthing: sirve para ver todos los archivos que se encuentan en la pc mas fácil y rápido, .exe.log .dmp .wer .appcrash .ink archivos que dan los logs de los (cheats)
-9.LastActivityview: sirve para ver procesos ejecutados últimamente (logs de últimos programas)
-10. Mediante esos archivos se puede buscar, pero estoy aprendiendo mas para hacer SS (ScreenShare). Gracias
---------------------------------------------------------------------------
 #Mi Cv Como Staff Team
 --------------------------------------------------------------------------
 Mi Cv Para Staff Aplication
 Mi Información Personal
 Minecraft IGN: Noxvian
-Discord: zx_badboy
+Discord: zx_luigi | cousphorous
 Edad: 17 años
 Pais: Ecuador
 Lenguas: Español (Nativo), 
@@ -56,3 +39,23 @@ Información adicional
 - No uso trampas y nunca me han incluido en la lista negra.
 - Disponible para entrevistas o llamadas de voz.
 - Experiencia como Configurador y Developer
+---------------------------------------------------------------------
+#Cv Developer
+---------------------------------------------------------------------
+Developer / Desarrollador de Software
+Desarrollador con experiencia en creación y mantenimiento de aplicaciones web y sistemas digitales. Manejo de tecnologías como JavaScript, React, Node.js, HTML, CSS y bases de datos SQL/NoSQL. Experiencia trabajando en equipos ágiles, integración de APIs, optimización de rendimiento y resolución de problemas técnicos. Enfocado en desarrollar soluciones eficientes, escalables y orientadas a la experiencia del usuario.
+
+Experiencia 10/10 Minecraft and Discord.
+
+Desarrollo de aplicaciones web responsivas.
+Integración de APIs y servicios externos.
+Mantenimiento y mejora de sistemas existentes.
+Implementación de buenas prácticas y control de versiones con Git.
+Colaboración con equipos de diseño y backend.
+Habilidades:
+JavaScript, TypeScript
+- React, Node.js
+- HTML, CSS, Tailwind
+- Git & GitHub
+- SQL / MongoDB
+- APIs REST
